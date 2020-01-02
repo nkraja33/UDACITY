@@ -4,6 +4,8 @@ This project is to predict whether the company has to launch the New updated pag
 to all users based the conversion rate from one set of group. I crated the model with `converted` columns as 
 response variable and `group` & `landing_page` columns as explanatory variables
 
+>Please take a look on "Analyze_ab_test_results_notebook.html" file to know more about this project
+
 Data used in this project is ab_data.csv & countries.csv provided by UDACITY.
 
 For this project:
