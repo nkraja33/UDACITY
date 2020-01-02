@@ -11,4 +11,4 @@ In this project, I have completed the below projects to graudate this Nanodegree
 3. **Code Your Own Quiz**
 		This is a intersting project, We need to create a quiz program which will give max attempts.  I wriiten this project using `Python` codes.
 4. **Create a Movie Website**
-		In this project, I have a webpage for my favourite movies & series list. Which will have the poster and movie duration and it is prograamed to run the trailer of the movie once click the poster.
+		In this project, I have a webpage for my favourite movies & series list. Which will have the poster and movie duration and it is prograamed to run the trailer of the movie once click the poster. In this project i have used `Python`, `Java` & `MYsql` codes.
