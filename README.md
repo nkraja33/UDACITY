@@ -1,2 +1,9 @@
 # UDACITY
-In this repository, I stored all my UDACITY Projects
+
+> In this repository, I stored all my UDACITY Nanodegree Projects.
+
+Each folder above represents a Nanodegree, please go to the folders one by one to view the projects which i done so far.
+
+## 1. IPND -Introduction to Programming Nanodegree
+## 2. DFND- Data Foundation Nanodegree
+## 3. DAND - Data Analyst for Enterprise Nanodegree
