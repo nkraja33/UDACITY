@@ -14,6 +14,7 @@
 
   By knowing the parameters and requirements we can look for a better home which will fit in our budget. One of the parameter which everyone consider is the neighbourhood. So with all this in mind, i will interpret with the parameters in the below data set and will give a clear picture which are all the additional parameters that helps in finding a better home.
 
+>Please take look on "**House_Price_Explanatory_Analysis.html**" file to know about the paramaeters i have used or please use the "**House_Price_Explanatory_Analysis_slided.html**" for a slide show.
 
 
  #### About Data:
