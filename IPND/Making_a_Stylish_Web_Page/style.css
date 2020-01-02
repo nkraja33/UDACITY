@@ -1,0 +1,164 @@
+/* This is a CSS comment. Notice that CSS comments are
+enclosed by different characters than HTML comments. */
+
+/* CSS allows you to give your page style (colors, shapes, fonts, etc.)
+You can apply CSS elements to entire HTML classes.*/
+* {
+    /*outline: 1px solid red ! important;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;*/
+    background-color: MediumSeaGreen;
+    color: white;
+
+        }
+  /*div.whatis{
+    background-color: Green;
+    color: white;
+  }*/
+img.headingpic{
+  background-color: rgba(30, 20, 40, 0.5);
+}
+.headingpic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding: 5px;
+}
+
+h1{
+  text-align: center;
+  font-size: 3em;
+}
+h2{
+  font-size: 2em;
+  margin-left: 20px;
+  margin-right: 80%;
+}
+p.para{
+  margin-left: 30px;
+}
+p.mainhead{
+  margin-left: 20px;
+  white-space: inherit;
+  width: 1200px;
+}
+a:link{
+  color: blue;
+}
+a:visited{
+  color: pink;
+}
+a.source{
+  font-size: 0.5em;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+b.title{
+  font-weight: bold;
+  font-size: 1.5em;
+}
+b{
+  font-size: 1em;
+
+}
+div.flex{
+  display: flex;
+}
+div.nonlist{
+  margin-left: 40px;
+  margin-right: auto;
+}
+div.list{
+  margin-left: 40px;
+}
+p.desc{
+  font-family: monospace;
+  font-style: oblique;
+  font-weight: bold;
+  margin-left: 30px;
+}
+p.desc{
+  font-family: monospace;
+  font-style: oblique;
+  font-weight: bold;
+  margin-left: 30px;
+}
+p.lipara{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: .7em;
+  margin-left: 20px;
+}
+p.lipara_1{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 1em;
+  margin-left: 60px;
+  margin-right: 52%;
+  width: 50%;
+  margin-top: 30px;
+}
+p.lipara_2{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 1em;
+  margin-left: 50px;
+  margin-right: 80px;
+  width: 40%;
+  margin-top: 30px;
+}
+li.subli{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 1em;
+  margin-left: 20px;
+  width: 50%;
+  margin-top: 30px;
+}
+ol.lilifecycle{
+  width: 50%;
+  margin-left: 20px;
+  white-space: inherit;
+  font-size: 1.1em;
+}
+img.pic{
+  display: block;
+  margin-top: 60px;
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 30%;
+  height: 40%;
+}
+img.lipic{
+  display: block;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 70px;
+  height: 40px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+p{
+  font-size: 1.2em;
+}
+li.listitem{
+  font-weight: bolder;
+  font-family: fantasy;
+}
+li.li{
+  margin-left: 30px;
+  font-weight: bolder;
+}
+li.ouli{
+  margin-left: 50px;
+}
+div.toolsmain{
+  display: grid;
+  padding: 20px;
+}
